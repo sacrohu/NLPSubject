@@ -1,3 +1,6 @@
 [submodule "BloomFilterTrie"]
 	path = BloomFilterTrie
 	url = https://github.com/GuillaumeHolley/BloomFilterTrie
+[submodule "SensitiveWord"]
+	path = SensitiveWord
+	url = https://github.com/tuyuwei/SensitiveWord.git
