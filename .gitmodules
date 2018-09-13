@@ -10,3 +10,6 @@
 [submodule "sensitivewd-filter"]
 	path = sensitivewd-filter
 	url = https://github.com/andyzty/sensitivewd-filter.git
+[submodule "IllegalWordsDetection"]
+	path = IllegalWordsDetection
+	url = https://github.com/NewbieGameCoder/IllegalWordsDetection.git
