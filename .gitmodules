@@ -1,0 +1,3 @@
+[submodule "BloomFilterTrie"]
+	path = BloomFilterTrie
+	url = https://github.com/GuillaumeHolley/BloomFilterTrie
