@@ -4,3 +4,9 @@
 [submodule "SensitiveWord"]
 	path = SensitiveWord
 	url = https://github.com/tuyuwei/SensitiveWord.git
+[submodule "ToolGoodWords"]
+	path = ToolGoodWords
+	url = https://github.com/toolgood/ToolGood.Words.git
+[submodule "sensitivewd-filter"]
+	path = sensitivewd-filter
+	url = https://github.com/andyzty/sensitivewd-filter.git
